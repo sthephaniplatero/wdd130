@@ -1,0 +1,67 @@
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    }
+
+h2 {
+    width: 30%;
+    margin: 20px auto;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+    }
+
+h3{
+    width: 35%;
+    margin: 20px auto;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+        
+    }
+
+    p {
+        width: 35%;
+        margin: 20px auto;
+        text-align: left;
+        color: rgb(8, 8, 8);
+        font-size: 25px;
+        }
+
+
+img { width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+h4{
+    width: 18%;
+    margin: 20px auto;
+    text-align: center;
+    color: white;
+    font-size: 40px;  
+    }
+
+h5{
+    width: 18%;
+    margin: 0px auto;
+    text-align: center;
+    color: rgb(7, 7, 7);
+    font-size: 20px;  
+    }
+
+h6{
+    width: 22%;
+    margin: 0px auto;
+    text-align: center;
+    color: rgb(12, 12, 12);
+    font-size: 20px;  
+    }
+
+
+h1:hover {
+    color: rgb(5, 5, 5);
+}
