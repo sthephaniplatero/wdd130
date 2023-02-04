@@ -42,7 +42,8 @@ nav a:hover  {
     background-color: #e9c46a ;
     text-decoration:none;
     font-size: 18px;
-    padding: 20px;
+    padding: 15px 30px;
+    margin-top: 50px;
 }
 .book:hover, .join:hover  {
     background-color: #2a9d8f; 
