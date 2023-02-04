@@ -31,12 +31,15 @@ body {
     margin: 0;
     padding: 0;
 }
+
 header {
     background-color: #2a9d8f; 
 }
 nav a:hover  {
     background-color: #e9c46a ; 
-    text-decoration:none
+    text-decoration:none;
+    padding-top: 0;
+    
 }
 .book, .join  {
     background-color: #e9c46a ;
@@ -97,7 +100,7 @@ h2 {
 .home-title{
     font-family: "Chewy";
     font-size: 2em;
-}
+} 
 
 .msg p {
     font-family: "League Spartan";
