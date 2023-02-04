@@ -25,7 +25,7 @@ main section{
 
 body {
     background-color: #f8f8f7;
-    font-family: "League Spartan"; 
+    font-family: "Chewy"; 
 }
 header {
     background-color: #2a9d8f; 
@@ -45,7 +45,8 @@ nav a:hover  {
     background-color: #e9c46a; 
 }
 .msg  {
-    background-color: #2a9d8f; 
+    background-color: #2a9d8f;
+    font-family: "League Spartan"; 
 }
 footer  {
     background-color: #2a9d8f; 
