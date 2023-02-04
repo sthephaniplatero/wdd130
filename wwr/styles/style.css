@@ -36,7 +36,8 @@ nav a:hover  {
 }
 .book, .join  {
     background-color: #e9c46a ;
-    text-decoration:none 
+    text-decoration:none;
+    font-size: 18px;
 }
 .book:hover, .join:hover  {
     background-color: #2a9d8f; 
@@ -44,9 +45,11 @@ nav a:hover  {
 #background  {
     background-color: #e9c46a; 
 }
-.msg  {
+.msg p {
     background-color: #2a9d8f;
-    font-family: "League Spartan"; 
+    font-family: "League Spartan";
+    font-size: 8em;
+
 }
 footer  {
     background-color: #2a9d8f; 
@@ -80,5 +83,6 @@ h2 {
 
 .home-title{
     font-family: "Chewy";
+    font-size: 2em;
 }
 
