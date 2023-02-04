@@ -117,4 +117,7 @@ h2 {
     border: 10px solid black;
 }
   
+main section img {
+    box-sizing: border-box;
+}
 
