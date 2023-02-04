@@ -108,3 +108,8 @@ h2 {
     padding-top: 10px;
 }
 
+.rivers-card, .camping-card, .rapids-card { 
+    margin: 200px 0;
+}
+  
+
