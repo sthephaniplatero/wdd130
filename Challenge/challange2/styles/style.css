@@ -1,0 +1,25 @@
+ div img { 
+    width: 1350px;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: rgb(110, 109, 109);
+}
+     
+main img {
+    width: 325px;
+    margin: 3%;
+    border-radius: 0px;
+    padding: 1px;
+    border: 10px solid rgb(48, 48, 49);
+    border-radius: 100%;
+    
+}
+
+body{
+    margin: 0;
+  }
+  

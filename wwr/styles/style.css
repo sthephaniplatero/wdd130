@@ -1,6 +1,5 @@
-#content div { 
+#content  { 
     max-width: 1600px;
-    text-align: center;
     margin: 0 auto;
 }
 
