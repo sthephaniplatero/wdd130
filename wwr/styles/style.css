@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=League+Spartan:wght@300&display=swap');
+
+
 #content  { 
     max-width: 1600px;
     margin: 0 auto;
@@ -20,7 +24,8 @@ main section{
 }
 
 body {
-    background-color: #f8f8f7; 
+    background-color: #f8f8f7;
+    font-family: "League Spartan"; 
 }
 header {
     background-color: #2a9d8f; 
