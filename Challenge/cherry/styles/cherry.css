@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+
+h1{ 
+    width: 100%;
+    font-family: "Arvo";
+    font-size: 150px;
+    padding: 40px;
+    position: relative;
+    top: 475px;
+    z-index: 12;
+
+}
+
+h2{
+    font-family: "League Spartan","Bodoni","Helvetica";
+    font-size: 100px;
+    padding: 40px;
+    color: rgb(163, 55, 55);
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+    z-index: 12;
+}
+
+.content1{
+    width: 600px; 
+    height: 600px; 
+    background-color: gray;
+    position: relative; 
+    left: 600px;
+    bottom: 1000px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+
+}

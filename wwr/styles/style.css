@@ -82,6 +82,7 @@ footer  {
 footer p {
     font-size: 1.2em;
     text-align: left;
+    color: #080808;
 }    
 
 footer p a:hover {
