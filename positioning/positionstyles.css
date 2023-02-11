@@ -36,6 +36,7 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display: grid;
+
   height: 550px;
 
 }
@@ -144,7 +145,7 @@
   
 } 
 .blue4 {
-  width: 700px auto; 
+  width: 700px ; 
   height: 12500px; 
   background-color: blue; 
   grid-column: 3/4;
