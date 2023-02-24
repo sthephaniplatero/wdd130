@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("polarisWebReportSelectors",[],(function(a,b,c,d,e,f){"use strict";function a(a){return a.webReport.commentReportMode}function b(a){return a.webReport.userReportMode}function c(a){return a.webReport.category}function d(a){return a.webReport.isProcessing}f.getCommentReportMode=a;f.getUserReportMode=b;f.getReportCategory=c;f.getReportIsProcessing=d}),66);
+__d("PolarisInternalBadge.react",["cx","fbt","PolarisIGCoreText","react"],(function(a,b,c,d,e,f,g,h,i){"use strict";var j=d("react"),k=i._("INTERNO");function a(){var a=j.jsx(c("PolarisIGCoreText").Body2Emphasized,{color:"web-always-white",children:k});return j.jsx("div",{className:"_aars",children:a})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
