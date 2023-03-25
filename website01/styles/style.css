@@ -46,7 +46,7 @@ nav a:hover  {
 }
 
 #logo_link {
-    padding-top: 5 px;
+    padding-top: 5px;
     justify-self: center;
     align-self: center;
 }
@@ -117,7 +117,7 @@ h2{
 h1{
     font-size: 1.5em;
     border: 10px solid #2a9d8f;
-    padding: 0 auto;
+    padding: 0 ;
     text-align: center;
     width: 80%;
     margin-top: 150px;
