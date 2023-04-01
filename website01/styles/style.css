@@ -325,3 +325,72 @@ footer p {
     margin-left: 20px;
    
 }
+
+/****************************************************************
+*
+* EAST *
+*
+*****************************************************************/
+.casa1{
+    width: 475px;
+    grid-column: 1/5;
+    grid-row: 2/5;
+    margin-left: 20px;
+    margin-bottom: 45px;
+    border: 15px solid #faed26;
+
+   
+
+}
+.text7{
+    background-color: #2a9d8f;
+    font-size: 18px ;
+    padding: 35px;
+    grid-column: 5/10;
+    grid-row: 1/5;
+    height: 400px;  
+    margin-left: 20px; 
+}
+
+.maribel1{
+    width: 475px;
+    grid-column: 5/10;
+    grid-row: 8/10;
+    z-index: 1;
+    margin-left: 20px;
+    margin-top: 40px;
+    border: 15px solid #faed26;
+
+}
+.text8{
+    background-color: #2a9d8f;
+    font-size: 18px ;
+    padding: 35px;
+    grid-column: 1/5;
+    grid-row: 7/11;
+    height: 390px;
+    margin-top: 40px; 
+    margin-left: 20px;
+}
+.bahia1{
+    width: 475px;
+    grid-column: 1/5;
+    grid-row: 14;
+    z-index: 1;
+    margin-left: 20px;
+    border: 15px solid #faed26;
+    margin-top: 50px;
+    
+}
+
+.text9{
+    background-color: #2a9d8f;
+    font-size: 18px ;
+    padding: 35px;
+    grid-column: 5/10;
+    grid-row: 13/16;
+    height: 390px;
+    margin-top: 60px;
+    margin-left: 20px;
+   
+}
