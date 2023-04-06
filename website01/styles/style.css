@@ -38,11 +38,17 @@ nav a {
     color: white;
 }
 
-nav a:hover  {
-    background-color: #faed26 ; 
-    text-decoration:none;
-    padding-top: 0;
-    border-radius: 5px;
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+nav a:hover {
+	background-color: #faed26;
+	text-decoration: none;
+	border-radius: 5px;
+	color: #000;
 }
 
 #logo_link {
@@ -245,8 +251,23 @@ footer  {
     text-decoration:none;
     padding: 10px ;
     margin-top: 100px; 
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     
 }
+
+footer  {
+   
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 
 footer p {
         margin-top:15px;
@@ -256,6 +277,12 @@ footer p {
         margin-bottom:0;
         
       }
+
+  
+    
+    footer p a:hover {
+        text-decoration: underline;
+    }  
 
 /****************************************************************
 *
@@ -356,7 +383,6 @@ footer p {
     width: 475px;
     grid-column: 5/10;
     grid-row: 8/10;
-    z-index: 1;
     margin-left: 20px;
     margin-top: 40px;
     border: 15px solid #faed26;
@@ -376,7 +402,6 @@ footer p {
     width: 475px;
     grid-column: 1/5;
     grid-row: 14;
-    z-index: 1;
     margin-left: 20px;
     border: 15px solid #faed26;
     margin-top: 50px;
